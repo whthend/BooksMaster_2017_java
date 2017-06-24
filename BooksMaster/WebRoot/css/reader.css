@@ -1,0 +1,84 @@
+#body{
+	position:relative;
+	background-image:url(../imgs/index_bg1.jpg);
+	background-repeat:no-repeat;
+	
+	
+}
+
+#indexSearchForm{
+	width:552px;
+	height:80px;
+	position:absolute;
+	top:68px;
+	left:50%;
+	margin-left:-277px;
+}
+#indexSearchForm input:nth-of-type(1){
+	width:460px;
+	height:45px;
+	border-radius:4px;
+	border:2px solid orange;
+	margin:0;
+	
+}
+#indexSearchForm input:nth-of-type(2){
+	width:88px;
+	height:45px;
+	border-radius:4px;
+	background-color:#00a94c;
+	border:1px solid #006e31;
+	color:#fff;
+	font-size:12pt;
+	font-weight:bold;
+	margin:0;
+}
+#searchBookResult{
+	position:absolute;
+	top:200px;
+	background-color:orange;
+	border-radius:8px;
+	width:552px;
+	min-height:60px;
+	left:50%;
+	margin-left:-277px;
+	text-align:center;
+}
+
+
+#searchResult{
+	display:block;
+	width:500px;
+	min-height:100px;
+	margin:0 auto;
+	margin-top:-40px;
+	background-color:blue;
+}
+
+
+.pub_table{
+	position:absolute;
+	width:800px;
+	min-height:60px;
+	left:50%;
+	margin-left:-400px;
+	top:60px;
+	color:#ffffff;
+	text-align:center;
+	background-color:#ff743d;
+	border-radius:8px;
+}
+.pub_table tr td{border:1px solid #eee;border-radius:2px;}
+
+
+
+
+
+
+
+
+
+
+
+
+

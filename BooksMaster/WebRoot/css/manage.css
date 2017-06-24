@@ -1,0 +1,69 @@
+#top{
+	background-color:#400;
+}
+
+.font{
+	background-color:#FFCC99;
+}
+.back{
+	background-color:#66CCCC;
+}
+#footer{
+	background-color:#FFFF99;
+}
+
+
+
+.login{
+	background-image:url(../imgs/login_bg.png);
+	background-repeat:no-repeat;
+}
+.login form{
+	position:absolute;
+	left:50%;
+	margin-left:-400px;
+	top:300px;
+}
+#body{
+	background-image:url(../imgs/login_bg.png);
+	/*background-color:#66CCCC;*/
+	background-repeat:no-repeat;
+	color:#FF9966;
+	width:100%;height:100%;
+	text-align:center;
+
+}
+#body>img{
+	
+	margin:0 auto;
+}
+#updateForm{
+	background-color:#66CC99;
+	
+}
+.pub_table{
+	width:1024px;
+	min-height:100px;
+	border-radius:8px;
+	color:#ffffff;
+	text-align:center;
+	border:2px solid #222;
+	
+	
+
+background:transparent;
+	
+	
+	
+	
+	
+}
+.pub_table tr td{border:1px solid #222;border-radius:4px;}
+.pub_table input{
+	max-width:150px;
+background:transparent;
+}
+#1111{
+	text-align:center;
+}
+
